@@ -1,0 +1,1 @@
+This is a R project I did in undergrad. And it is about using the nba database to do some general statistics study and also I want to learn about how the introduction of three pointers changed the league completely since 1980.
