@@ -1,1 +1,1 @@
-This is the projects I did for my software engineering class
+This is the projects I did for my software engineering class in Java
